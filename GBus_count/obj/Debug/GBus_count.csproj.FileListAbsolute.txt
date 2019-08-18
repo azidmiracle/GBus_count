@@ -1,0 +1,10 @@
+C:\Users\emely\source\repos\GoogleKickStart\GBus_count\bin\Debug\GBus_count.exe.config
+C:\Users\emely\source\repos\GoogleKickStart\GBus_count\bin\Debug\GBus_count.exe
+C:\Users\emely\source\repos\GoogleKickStart\GBus_count\bin\Debug\GBus_count.pdb
+C:\Users\emely\source\repos\GoogleKickStart\GBus_count\obj\Debug\GBus_count.csprojAssemblyReference.cache
+C:\Users\emely\source\repos\GoogleKickStart\GBus_count\obj\Debug\GBus_count.Form1.resources
+C:\Users\emely\source\repos\GoogleKickStart\GBus_count\obj\Debug\GBus_count.Properties.Resources.resources
+C:\Users\emely\source\repos\GoogleKickStart\GBus_count\obj\Debug\GBus_count.csproj.GenerateResource.cache
+C:\Users\emely\source\repos\GoogleKickStart\GBus_count\obj\Debug\GBus_count.csproj.CoreCompileInputs.cache
+C:\Users\emely\source\repos\GoogleKickStart\GBus_count\obj\Debug\GBus_count.exe
+C:\Users\emely\source\repos\GoogleKickStart\GBus_count\obj\Debug\GBus_count.pdb
